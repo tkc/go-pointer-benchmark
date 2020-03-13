@@ -1,6 +1,6 @@
 # go-pointer-benchmark
 
-a bentchmark test of go pointer array type.
+a benchmark test of go pointer array type.
 
 
 ## Run bench
