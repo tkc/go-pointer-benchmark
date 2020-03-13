@@ -1,4 +1,4 @@
-# go-pointer-bentchmark
+# go-pointer-benchmark
 
 a bentchmark test of go pointer array type.
 
