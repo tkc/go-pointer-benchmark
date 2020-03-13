@@ -1,4 +1,4 @@
-# go-echo-server-sandbox
+# go-pointer-bentchmark
 
 ## Run bench
 
